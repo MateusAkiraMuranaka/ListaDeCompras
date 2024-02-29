@@ -1,6 +1,6 @@
 # ListaDeCompras
 Aplicação Web para adicionar, editar e remover itens da lista.
-Será utilizado Javascript para backend, React para frontend e SQL para banco de dados.
+Será utilizado TypeScript para backend, React para frontend e SQL para banco de dados.
 
 Requisitos funcionais:
 - Criar, editar e remover itens da lista. (CRUD)
